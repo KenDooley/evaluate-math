@@ -1,7 +1,8 @@
 # Evaluating mathematical expressions using Shunting-Yard Algorithm.
 
-This code is really intended to go along with my talk (I'll upload the
-slides later.) That said, if you want to get started, there are two
+This code is really intended to go along with my talk (Slides are in
+presentation, but they aren't comprehensive.)
+That said, if you want to get started, there are two
 challenges!
 
 ## Evaluate Mathematical expressions.
